@@ -1,0 +1,23 @@
+{
+  "name": "tienda",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.36",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vue-sweetalert2": "^5.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "gh-pages": "^5.0.0",
+    "sass": "^1.62.1",
+    "vite": "^4.3.2"
+  }
+}
